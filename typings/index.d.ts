@@ -146,6 +146,12 @@ declare module "noblox.js" {
                 refresh: number | boolean;
             }
         }
+
+        /** Proxy settings for the HTTP client */
+        proxy?: {
+            /** Proxy URL to use for all the HTTP requests sent to Roblox */
+            url: string;
+        }
     }
 
     /// Asset
