@@ -103,5 +103,9 @@
       "refresh": false,
       "desc": "Caches rank by user ID. Changes cannot be anticipated so this is not enabled by default."
      }
+  },
+
+  "proxy": {
+    "url": ""
   }
 }
