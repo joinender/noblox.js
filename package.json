@@ -1,5 +1,5 @@
 {
-  "name": "noblox.js",
+  "name": "@joinender/noblox.js",
   "version": "6.0.2",
   "description": "A Node.js API wrapper for Roblox.",
   "main": "lib/index.js",
